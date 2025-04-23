@@ -67,21 +67,60 @@ I love building real-world applications and participating in challenges like the
 
 ## 🚀 Projects
 
+---
+
 ### 🛒 Smart Grocery System  
-The Smart Grocery Shopping platform is an AI-driven online grocery system designed to provide a seamless, personalized, and efficient shopping experience. It integrates features like AI-powered recipe generation, dynamic pricing, voice-activated assistance, face authenticated login and automated inventory management to enhance user convenience and operational efficiency. The platform supports multiple user roles, including customers, administrators, suppliers, and district operations managers, ensuring smooth order processing, stock management, and secure transactions. With advanced AI and automation, it aims to revolutionize the grocery shopping experience by offering personalized recommendations, optimized deliveries, and a highly interactive shopping environment. 🚀  
-Tech: MERN Stack, Cloudinary,AWS EC2 Instance,Artifical Intelligence, Machine Learning, Firebase, Python, Flask, 
+<img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square&logo=react" />
+<img src="https://img.shields.io/badge/AI--Driven-Enabled-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazonaws" />
+<img src="https://img.shields.io/badge/MongoDB-Atlas-green?style=flat-square&logo=mongodb" />
+
+A full-fledged **AI-powered grocery shopping platform** that offers:
+- 🔍 Visual search & personalized recipe generation  
+- 🗣️ Voice-activated assistant  
+- 🧠 Machine Learning-driven recommendations  
+- 🔐 Face-authenticated login  
+- 🔄 Automated inventory management  
+- 🧑‍💼 Role-based functionalities for Customer, Admin, Supplier, and Operations Manager  
+
+> **Tech Stack:** MERN Stack, Cloudinary, AWS EC2, Firebase, Python, Flask, AI/ML
+
+---
 
 ### 🌌 Orrery Web App – NASA Space Apps Challenge  
-A 3D visualization tool for **Near-Earth Objects** and planetary orbits using NASA APIs.  
-Tech: React.js, Three.js, NASA APIs  
+<img src="https://img.shields.io/badge/3D-NASA_App-lightblue?style=flat-square&logo=nasa" />
+<img src="https://img.shields.io/badge/Three.js-Visualization-black?style=flat-square&logo=three.js" />
+
+An interactive **3D space simulation app** that visualizes planetary orbits and **Near-Earth Objects** using live NASA APIs.
+
+> **Tech Stack:** React.js, Three.js, NASA APIs
+
+---
 
 ### 🎟️ Movie Booking System  
-Web application to browse, book, and reserve seats in theaters.  
-Tech: Django, MySQL  
+<img src="https://img.shields.io/badge/Django-WebApp-green?style=flat-square&logo=django" />
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql" />
+
+A user-friendly movie ticket reservation system that allows users to:
+- 🎬 Browse movies
+- 🪑 View seating availability
+- 💳 Book and reserve seats online
+
+> **Tech Stack:** Django, MySQL
+
+---
 
 ### 📱 Hack-a-Addict  
-A mobile app for **addiction prevention and awareness** featuring interactive educational content.  
-Tech: Flutter, Firebase  
+<img src="https://img.shields.io/badge/Flutter-Mobile_App-blue?style=flat-square&logo=flutter" />
+<img src="https://img.shields.io/badge/Firebase-Backend-yellow?style=flat-square&logo=firebase" />
+
+A mobile app aimed at **addiction awareness and prevention**.  
+Features include:
+- 🧠 Interactive learning content  
+- 📈 Educational progress tracking  
+- 👥 Support for affected individuals  
+
+> **Tech Stack:** Flutter, Firebase
 
 ---
 
