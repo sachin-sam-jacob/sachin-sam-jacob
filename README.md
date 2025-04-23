@@ -77,6 +77,8 @@ Tech: Flutter, Firebase
 
 ---
 
+## 📊 GitHub Stats
+![sachin-sam-jacob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-sam-jacob&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 📫 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sachinsamjacob/)  
