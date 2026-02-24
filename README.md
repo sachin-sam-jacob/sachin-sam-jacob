@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Sam Jacob</h1>
-<h3 align="center">MCA Graduate | Full Stack Developer | MERN Stack Enthusiast |
+<h3 align="center">MCA Graduate | Full Stack Developer | JAVA FULL Stack Enthusiast |
 </h3>
 
 ---
